@@ -82,7 +82,7 @@ The final model was trained using **XGBoost** with **early stopping**, and evalu
 
 📧 Email: aymansamy1772004@gmail.com
 
-🔗 LinkedIn: ayman-negm-690b322b4
+🔗 LinkedIn: [Ayman_Negm](https://www.linkedin.com/in/ayman-negm-690b322b4/)
 
 
 
